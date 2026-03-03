@@ -116,9 +116,9 @@ Visualizations created using Matplotlib and Seaborn include:
 
 ## 👩‍💻 Author
 
-**Nikhitha Patibandla**
-B.Tech Computer Science (AI/ML)
-Data Science & Analytics Enthusiast
+**Nikhitha Patibandla**  
+B.Tech Computer Science (AI/ML)  
+Data Science & Analytics Enthusiast  
 
 ---
 This project was developed to strengthen practical data analysis skills and demonstrate hands-on experience with real-world analytical workflows.
